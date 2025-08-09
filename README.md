@@ -71,4 +71,4 @@ The meticulously prepared dataset was subsequently utilized to train and rigorou
 
 ## 7. Project Impact
 
-This project distinctly demonstrates the **practical and impactful application of machine learning in addressing a significant real-world problem within healthcare**, particularly in predicting a neurological disorder where conventional diagnostic methods are currently limited [4]. The successful implementation of this predictive model underscores how data-driven approaches can offer invaluable insights and potentially facilitate earlier identification of autism, paving the way for timely intervention and support.
+This project distinctly demonstrates the **practical and impactful application of machine learning in addressing a significant real-world problem within healthcare**, particularly in predicting a neurological disorder where conventional diagnostic methods are currently limited. The successful implementation of this predictive model underscores how data-driven approaches can offer invaluable insights and potentially facilitate earlier identification of autism, paving the way for timely intervention and support.
